@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lyszhang
 - 👀 I’m interested in Blockchain & SMPC
-- 🌱 I’m currently learning WASM && Rust
 - 📫 How to reach me: ericlyszhang@gmail.com
 
 <!---
